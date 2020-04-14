@@ -1,0 +1,15 @@
+track Poran
+shortLabel Poran
+longLabel RECON HLA-I epitopes
+visibility dense
+type bigBed
+priority 1
+bigDataUrl Poran/CD8-hla1.bb
+
+track Poran
+shortLabel Poran
+longLabel RECON HLA-II epitopes
+visibility dense
+type bigBed
+priority 1
+bigDataUrl Poran/CD8-hla2.bb
