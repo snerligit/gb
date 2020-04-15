@@ -4,7 +4,7 @@ longLabel RECON HLA-I epitopes
 visibility dense
 type bigBed
 priority 1
-bigDataUrl Poran_HLA_I/CD8-hla1.bb
+bigDataUrl PoranHLAI/CD8-hla1.bb
 
 track Poran_HLA_II
 shortLabel Poran_HLA_II
@@ -12,4 +12,4 @@ longLabel RECON HLA-II epitopes
 visibility dense
 type bigBed
 priority 1
-bigDataUrl Poran_HLA_II/CD8-hla2.bb
+bigDataUrl PoranHLAII/CD8-hla2.bb
