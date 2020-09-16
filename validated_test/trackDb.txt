@@ -2,9 +2,9 @@ track IEDB_validated
 shortLabel Validated epitopes from IEDB
 longLabel Epitopes validated experimentally
 visibility dense
-url	http://www.iedb.org/epitope/$epitopeID
+url	http://www.iedb.org/epitope/$$
 urlLabel Link to validated epitope
-urls epitopeID="http://www.iedb.org/epitope/$epitopeID"
+urls epitopeID="http://www.iedb.org/epitope/$$"
 type bigBed
 priority 1
 bigDataUrl iedb/epitope_table_MHCI.bb
