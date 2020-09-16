@@ -1,0 +1,5 @@
+hub COVID_sn
+shortLabel Santrupti's SARS-CoV-2 tracks
+longLabel Tracks made for genome-test
+genomesFile genomes.txt
+email snerli@ucsc.edu
