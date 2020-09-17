@@ -1,0 +1,8 @@
+track validated_iedb
+shortLabel Validated epitopes from IEDB
+longLabel Validated epitopes from IEDB
+visibility dense
+urls epitopeID="http://www.iedb.org/epitope/$$"
+type bigBed
+priority 1
+bigDataUrl final/validated_epitopes_from_IEDB.bb
