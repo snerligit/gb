@@ -2,7 +2,7 @@ track IEDB_validated
 shortLabel Validated epitopes from IEDB
 longLabel Epitopes validated experimentally
 visibility dense
-url	http://www.iedb.org/epitope/$$
+url	http://www.iedb.org/epitope/${epitopeID}
 urlLabel Link to validated epitope
 urls epitopeID="http://www.iedb.org/epitope/$$"
 type bigBed
