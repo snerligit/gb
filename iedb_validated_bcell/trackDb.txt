@@ -1,0 +1,8 @@
+track validated_iedb_bcell
+shortLabel Validated B-cell epitopes from IEDB
+longLabel Validated B-cell epitopes from IEDB
+visibility dense
+urls epitopeID="http://www.iedb.org/epitope/$$"
+type bigBed
+priority 1
+bigDataUrl final/validated_bcell_epitopes_from_IEDB.bb
